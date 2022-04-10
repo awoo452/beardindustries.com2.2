@@ -110,14 +110,14 @@ main #home .row h1 {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  padding-left: 10%;
+  padding-left: 1%;
 }
 
 main #home .row h4 {
   position: relative;
   color: black;
   background-image: linear-gradient(to right, yellow, transparent);
-  padding-left: 10%;
+  padding-left: 1%;
   /*
     https://css-tricks.com/snippets/css/fluid-typography/
     font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));

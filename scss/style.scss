@@ -74,13 +74,13 @@ main {
                 opacity: 69%;
                 @include extra-large-font;
                 @include margin-killer;
-                padding-left: 10%;
+                padding-left: 1%;
             }
             h4 {
                 position: relative;
                 color: black;
                 background-image: linear-gradient(to right, yellow, transparent);
-                padding-left: 10%;
+                padding-left: 1%;
                 @include large-font;
                 @include margin-killer;
             }
